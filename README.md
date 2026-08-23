@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
