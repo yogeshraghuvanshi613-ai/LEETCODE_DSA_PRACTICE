@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
