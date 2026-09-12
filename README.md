@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1929-concatenation-of-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
