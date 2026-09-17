@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1929-concatenation-of-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0645-set-mismatch) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -158,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
