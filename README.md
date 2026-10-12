@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0645-set-mismatch) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0022-generate-parentheses) |
+| [0389-find-the-difference](https://github.com/yogeshraghuvanshi613-ai/LEETCODE_DSA_PRACTICE/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
